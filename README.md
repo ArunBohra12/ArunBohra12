@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/ArunBohra12"><img src="https://api.daily.dev/devcards/9bd1930a0e88421cb1c082ddca19f397.png?r=448" width="400" alt="Arun Bohra's Dev Card"/></a>
-
 - 👋 Hi, I’m @ArunBohra12
 - 👀 I’m interested in ... Web Development (with more focus on front-end technologies)
 - 🌱 I’m currently learning ... backend with PHP and CodeIgniter framework
