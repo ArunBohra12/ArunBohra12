@@ -1,5 +1,5 @@
 ## About me
-<hr />
+
 - 👋 Hi, I’m Arun Bohra from India
 
 - 👀 I’m interested in ... Web Development (with special interest in front-end technologies)
@@ -14,6 +14,5 @@
 <br />
 
 ## My Dev Card
-<hr />
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ArunBohra12/ArunBohra12/blob/main/devcard.svg" width="300" alt="Arun Bohra's Dev Card"/></a>
