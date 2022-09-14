@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ... Open Source JavaScript
 - 📫 How to reach me ... email - arunbohra12@gmail.com
 
-<a href="https://app.daily.dev/ArunBohra12"><img src="https://api.daily.dev/devcards/9bd1930a0e88421cb1c082ddca19f397.png?r=kfu" width="400" alt="Arun Bohra's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ArunBohra12/ArunBohra12/blob/main/devcard.svg" width="300" alt="Arun Bohra's Dev Card"/></a>
