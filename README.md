@@ -10,9 +10,6 @@
 
 - 📫 How to reach me ... email - arunbohra12@gmail.com
 
-<br />
-<br />
-
 ## My Dev Card
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ArunBohra12/ArunBohra12/blob/main/devcard.svg" width="300" alt="Arun Bohra's Dev Card"/></a>
