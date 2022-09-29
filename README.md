@@ -12,4 +12,4 @@
 
 ## My Dev Card
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ArunBohra12/ArunBohra12/blob/main/devcard.svg" width="400" alt="Arun Bohra's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ArunBohra12/ArunBohra12/blob/main/devcard.svg" width="250" alt="Arun Bohra's Dev Card"/></a>
