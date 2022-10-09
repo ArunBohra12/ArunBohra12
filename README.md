@@ -36,7 +36,7 @@
 <p align="center">
   <img width="400" src="https://github.com/ArunBohra12/natours/blob/main/natours.png" />
   <img width="400" src="https://github.com/ArunBohra12/talk-a-tive/blob/main/talk-a-tive.png" />
-  <a href="https://github.com/ArunBohra12/talk-a-tive/blob/main/talk-a-tive.png">
+  <a href="https://github.com/ArunBohra12/natours">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunBohra12&repo=natours&theme=tokyonight" />
   </a>
   <a href="https://github.com/ArunBohra12/talk-a-tive">
