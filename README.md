@@ -34,8 +34,6 @@
 <br />
 <br />
 <p align="center">
-  <img width="400" src="https://github.com/ArunBohra12/natours/blob/main/natours.png" />
-  <img width="400" src="https://github.com/ArunBohra12/talk-a-tive/blob/main/talk-a-tive.png" />
   <a href="https://github.com/ArunBohra12/natours">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunBohra12&repo=natours&theme=tokyonight" />
   </a>
@@ -54,7 +52,7 @@
 I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
 </p>
 
-
-## My Dev Card
-
+<h1 align="center"><b>My Dev Card</b></h1>
+<div align="center">
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ArunBohra12/ArunBohra12/blob/main/devcard.svg" width="250" alt="Arun Bohra's Dev Card"/></a>
+</div>
