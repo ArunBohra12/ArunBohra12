@@ -16,6 +16,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?&style=for-the-badge&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img scr="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -51,8 +52,3 @@
 <p align="center">
 I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
 </p>
-
-<h1 align="center"><b>My Dev Card</b></h1>
-<div align="center">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ArunBohra12/ArunBohra12/blob/main/devcard.svg" width="250" alt="Arun Bohra's Dev Card"/></a>
-</div>
