@@ -43,10 +43,11 @@
   </a>
 </p>
 <br />
-<p align="center">
+
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ArunBohra12&theme=radical&show_icons=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunBohra12&layout=compact&theme=radical" width="400" />
-</p>
+</p> -->
 
 <br />
 <p align="center">
