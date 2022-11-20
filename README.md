@@ -69,7 +69,7 @@ I love connecting with different people, so say hi! I'll be happy to meet you mo
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunBohra12&layout=compact&theme=dark" alt="KiranAminPanjwani"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunBohra12&layout=compact&theme=dark" alt="Arun Bohra"/></p>
 </div>
 
 <br />
@@ -78,6 +78,6 @@ I love connecting with different people, so say hi! I'll be happy to meet you mo
   
  <br />
 
- [![Arun Bohra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ArunBohra12&&theme=xcode)](https://github.com/KiranAminPanjwani)
+ [![Arun Bohra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ArunBohra12&&theme=xcode)](https://github.com/ArunBohra12)
 
  </div>
