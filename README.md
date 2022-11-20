@@ -31,15 +31,19 @@
 
 <br />
 
+<p align="center">
+I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
+</p>
+
 <h2 align="center">My favorite projects 💻</h2>
-<br />
 <br />
 <p align="center">
   <a href="https://github.com/ArunBohra12/natours">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunBohra12&repo=natours&theme=tokyonight" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunBohra12&repo=natours&theme=dark" />
   </a>
+  &nbsp;
   <a href="https://github.com/ArunBohra12/talk-a-tive">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunBohra12&repo=talk-a-tive&theme=tokyonight" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunBohra12&repo=talk-a-tive&theme=dark" />
   </a>
 </p>
 <br />
@@ -49,7 +53,31 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunBohra12&layout=compact&theme=radical" width="400" />
 </p> -->
 
+<div align="center">
+  
+# ⚙️ GitHub Analytics
 <br />
-<p align="center">
-I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="190" src="https://github-readme-stats.vercel.app/api?username=ArunBohra12&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunBohra12&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunBohra12&layout=compact&theme=dark" alt="KiranAminPanjwani"/></p>
+</div>
+
+<br />
+
+# 📈 Contribution Graph  
+  
+ <br />
+
+ [![Arun Bohra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ArunBohra12&&theme=xcode)](https://github.com/KiranAminPanjwani)
+
+ </div>
