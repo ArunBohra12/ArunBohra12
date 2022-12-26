@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Arun <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+  <h1 align="center"><b>Hi there, I'm Arun</h1>
 </p>
 
 <p align="center">I am an enthusiastic selftaught web developer. Insightful and determined programmer with the ability to write clean code.</p>
