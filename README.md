@@ -78,6 +78,7 @@ I love connecting with different people, so say hi! I'll be happy to meet you mo
   
  <br />
 
- [![Arun Bohra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ArunBohra12&&theme=xcode)](https://github.com/ArunBohra12)
+<!--  [![Arun Bohra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ArunBohra12&&theme=xcode)](https://github.com/ArunBohra12) -->
+[![Arun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArunBohra12&bg_color=0d1117&color=616090&line=3b3b3b&point=3e3c3c&area=true&hide_border=true)](https://github.com/ArunBohra12)
 
  </div>
